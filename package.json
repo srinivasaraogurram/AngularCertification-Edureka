@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-core-library": "^1.0.32",
+    "node-docs": "^0.0.0"
+  }
+}
